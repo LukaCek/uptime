@@ -5,15 +5,7 @@ repo: uptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-  - name: Filmi
+  - name: Cekluka
     url: https://cekluka.com
     port: 80
     check: "tcp-ping"

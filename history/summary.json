@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 111,
-    "timeWeek": 111,
-    "timeMonth": 111,
-    "timeYear": 111,
+    "time": 105,
+    "timeDay": 93,
+    "timeWeek": 105,
+    "timeMonth": 105,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cekluka.com.ico",
     "slug": "cekluka",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 22
+      "2024-09-18": 33,
+      "2024-09-17": 1435
     }
   }
 ]

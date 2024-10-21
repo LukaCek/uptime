@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+  - name: DANCEshare
+    url: https://danceshare.cekluka.com/
   - name: Cekluka
     url: https://cekluka.com
     port: 80
